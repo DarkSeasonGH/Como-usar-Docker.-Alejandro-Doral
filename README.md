@@ -15,7 +15,7 @@ obsidian://open?vault=Obsidian%20Vault&amp;file=Docker%2FComo%20usar%20Docker
 
 
 
-Si no os funciona el enlace os dejo todo el documento por aqui aunque las capturas de pantalla no van a estar disponibles y no las vais a poder ver. Que aproveche githubers
+Si no os funciona el enlace os dejo todo el documento por aqui aunque las capturas de pantalla no van a estar disponibles y no las vais a poder ver. Que aproveche githubers.
 
 
 
